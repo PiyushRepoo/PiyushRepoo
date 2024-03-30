@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Piyush Kumar,</h2>
-<p align="left">A self-taught passionate front-end developer. I am currently pursuing my Bachelor's in Computer Application (BCA) from Veer Kunwar Singh University (VKSU), ARA.<br/><br/>
+<p align="left">A self-taught passionate front-end developer. I am currently pursuing my Bachelor's in Computer Application (BCA) from Veer Kunwar Singh University (VKSU), ARA and I am in my 1st Semester.<br/><br/>
 Front-End technologies I have learned are:<br/>
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -8,22 +8,10 @@ Front-End technologies I have learned are:<br/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
+
 </p>
 <br/>
-<p>Now I am learning Backend Development as well, So far I have learned: <br/></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb logo" />        
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" height="30" alt="mongoose logo" />
-  <img width="12" />  
-  <i class="devicon-express-original-wordmark"  height="30" alt="mongoose logo"></i>        
-  <img width="12" />  
-</div>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
