@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Piyush Kumar,</h2>
-<p align="left">A self-taught passionate front-end developer. I am currently pursuing my Bachelor's in Computer Application (BCA) from Veer Kunwar Singh University (VKSU), ARA.
+<p align="left">A self-taught passionate front-end developer. I am currently pursuing my Bachelor's in Computer Application (BCA) from Veer Kunwar Singh University (VKSU), ARA.<br/><br/>
 Front-End technologies I have learned are:<br/>
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -11,6 +11,7 @@ Front-End technologies I have learned are:<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
 </p>
+<br/>
 <p>Now I am learning Backend Development as well, So far I have learned: <br/></p>
 
 <div align="left">
